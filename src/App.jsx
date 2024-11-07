@@ -2,6 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import BMI from './assets/bmi_01.png'
 
 function App() {
   const[height,setHeight]=useState("")
