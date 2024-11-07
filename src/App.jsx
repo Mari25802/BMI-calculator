@@ -52,7 +52,7 @@ function App() {
      
         <div className="bmi-calculator">
           <div className="image">
-            <img src="" alt="" />
+            <img src={BMI} alt="" />
           </div>
 
           <div className="data">
